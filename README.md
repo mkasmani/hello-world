@@ -4,3 +4,4 @@ Intro to GitHub
 This is an edit.
 <another new-line>.
 end-line.
+END.
